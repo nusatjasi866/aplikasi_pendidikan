@@ -1,0 +1,6 @@
+{
+  "name": "Portal Aplikasi Pendidikan Tanimbar",
+  "description": "Pusat Akses Cepat Layanan dan Aplikasi Pendidikan Kabupaten Kepulauan Tanimbar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
